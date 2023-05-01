@@ -1,2 +1,2 @@
 # NFT Staking Website
- Website for Staking
+ Website for NFT Staking
